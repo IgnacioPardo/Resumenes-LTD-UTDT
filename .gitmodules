@@ -1,0 +1,6 @@
+[submodule "Resumen_TDIII"]
+	path = Resumen_TDIII
+	url = https://github.com/IgnacioPardo/Resumen_TDIII
+[submodule "Resumen-Introduccion-a-la-Estadistica"]
+	path = Resumen-Introduccion-a-la-Estadistica
+	url = https://github.com/IgnacioPardo/Resumen-Introduccion-a-la-Estadistica
