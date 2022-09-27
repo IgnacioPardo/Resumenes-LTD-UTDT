@@ -1,4 +1,4 @@
-# Resumenes Historia desde Occidente Hasta la Modernidad - Perochena
+# Resúmenes Historia desde Occidente Hasta la Modernidad - Perochena
 
 ## Tabla de contenidos
 
