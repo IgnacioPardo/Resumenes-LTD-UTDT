@@ -20,7 +20,7 @@ Repo de resúmenes de la carrera Licenciatura en Tecnología Digital Universidad
 
 ## 🌐 Correlativas
 
-[Mapa de correlativas](https://ignaciopardo.github.io/Correlativas-LTD-UTDT/)
+Podes entrar al [Mapa de correlativas](https://ignaciopardo.github.io/Correlativas-LTD-UTDT/) para ver un grafo interactivo de las correlaciones entre las materias de la licenciatura.
 
 ## 👤 Como colaborar
 
