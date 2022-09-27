@@ -7,7 +7,8 @@ Repo de resúmenes de la carrera Licenciatura en Tecnología Digital Universidad
   - Primer Cuatrimestre
     - [Historia desde Occidente hasta la Modernidad](https://github.com/IgnacioPardo/Resumenes-LTD-UTDT/tree/main/Resumenes_HDO)
   - Segundo Cuatrimestre
-    - [Resumen Neurociencia y Psicología Experimental](https://github.com/IgnacioPardo/Resumenes-LTD-UTDT/tree/main/Resumenes_Neurociencia)
+    - [Neurociencia y Psicología Experimental](https://github.com/IgnacioPardo/Resumenes-LTD-UTDT/tree/main/Resumenes_Neurociencia)
+    - [TD II: Sistemas de Computación](https://github.com/IgnacioPardo/Resumenes-LTD-UTDT/tree/main/Resumenes_TDII)
 - Segundo año
   - Primer Cuatrimestre
     - [TD III: Algoritmos y Estructuras de Datos](https://github.com/IgnacioPardo/Resumen_TDIII/)
