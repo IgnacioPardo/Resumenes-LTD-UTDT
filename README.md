@@ -26,7 +26,7 @@ Podes entrar al [Mapa de correlativas](https://ignaciopardo.github.io/Correlativ
 
 ## 👤 Como colaborar
 
-Completar el siguiente [Google Forms](https://docs.google.com/forms/d/1ASs_6oR9qEws-OANRmTPrW6Olv6gxBnyjp7gFh41F6E/edit) donde podes subir ultiples pdfs (un pdf = un resúmen). Necesario indicar materia y autor del resumen en el nombre del PDF, y en lo posible catedra y fecha de cursada. De tener el resumen en fotos se puede convertir a PDF y subirlo.
+Completar el siguiente [Google Forms](https://forms.gle/34pHpC7yjG5Fg5ZA8) donde podes subir ultiples pdfs (un pdf = un resúmen). Necesario indicar materia y autor del resumen en el nombre del PDF, y en lo posible catedra y fecha de cursada. De tener el resumen en fotos se puede convertir a PDF y subirlo.
 
 <br/><br/>
 
