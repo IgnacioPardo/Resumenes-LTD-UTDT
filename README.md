@@ -18,9 +18,13 @@ Repo de resúmenes de la carrera Licenciatura en Tecnología Digital Universidad
     - [Introducción a la Contabilidad y las Finanzas](https://docs.google.com/document/d/11ir8hRMORxRVojhuUToKc78AeOlRWVdg8PbpN2G6Gug/edit#heading=h.pj6bl02gqr2i)
     - [Aspectos Éticos y Legales en Tecnología y Sociedad](https://docs.google.com/document/d/1KigQkCrlHuyXkE911BWC-KcHFnWKEXvuxu9LeR3dYv0/edit)
 
-## Correlativas
+## 🌐 Correlativas
 
 [Mapa de correlativas](https://ignaciopardo.github.io/Correlativas-LTD-UTDT/)
+
+## 👤 Como colaborar
+
+Completar el siguiente [Google Forms](https://docs.google.com/forms/d/1ASs_6oR9qEws-OANRmTPrW6Olv6gxBnyjp7gFh41F6E/edit) donde podes subir ultiples pdfs (un pdf = un resúmen). Necesario indicar materia y autor del resumen en el nombre del PDF, y en lo posible catedra y fecha de cursada. De tener el resumen en fotos se puede convertir a PDF y subirlo.
 
 <br/><br/>
 
