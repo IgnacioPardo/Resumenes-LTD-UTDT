@@ -7,3 +7,6 @@
 [submodule "TDIV"]
 	path = Scripts_TDIV
 	url = https://github.com/IgnacioPardo/TDIV/
+[submodule "Inferencia_Estadistica"]
+	path = Inferencia_Estadistica
+	url = https://github.com/IgnacioPardo/Inferencia_Estadistica
