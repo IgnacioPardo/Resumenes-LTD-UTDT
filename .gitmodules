@@ -4,3 +4,6 @@
 [submodule "Resumen-Introduccion-a-la-Estadistica"]
 	path = Resumen-Introduccion-a-la-Estadistica
 	url = https://github.com/IgnacioPardo/Resumen-Introduccion-a-la-Estadistica
+[submodule "TDIV"]
+	path = Scripts_TDIV
+	url = https://github.com/IgnacioPardo/TDIV/
