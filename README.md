@@ -21,7 +21,7 @@ Repo de resúmenes de la carrera Licenciatura en Tecnología Digital Universidad
     - [Aspectos Éticos y Legales en Tecnología y Sociedad](https://docs.google.com/document/d/1KigQkCrlHuyXkE911BWC-KcHFnWKEXvuxu9LeR3dYv0/edit)
   - Tercer año
     - Primer Cuatrimestre
-      - [TD V: Diseño de Algoritmos]()
+      - [TD V: Diseño de Algoritmos](https://github.com/IgnacioPardo/TDV/blob/cd91dddda31c31ede2f1089e4b9850ab8defdfb8/resumen.md)
       - [Métodos Computacionales]()
 
 ## 🌐 Correlativas
