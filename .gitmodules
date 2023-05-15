@@ -10,3 +10,6 @@
 [submodule "Inferencia_Estadistica"]
 	path = Inferencia_Estadistica
 	url = https://github.com/IgnacioPardo/Inferencia_Estadistica
+[submodule "TDV"]
+	path = TDV
+	url = https://github.com/IgnacioPardo/TDV
